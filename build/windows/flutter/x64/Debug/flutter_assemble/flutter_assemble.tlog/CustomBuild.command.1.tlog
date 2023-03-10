@@ -1,0 +1,28 @@
+^C:\USERS\HELSY\BITS\SEMESTER3\CPAD - CROSS_PLATFORM\ASSIGNMENT\FINAL_DELIVERABLES\ASSIGNMENT_G7_CPA\ASSIGNMENT_G7_CPA\BUILD\WINDOWS\CMAKEFILES\7B15BE877D004A9975AE3A8E911C6914\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\helsy\BITS\Softwares\flutter_windows_3.3.10-stable\flutter "PROJECT_DIR=C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa" FLUTTER_ROOT=C:\Users\helsy\BITS\Softwares\flutter_windows_3.3.10-stable\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa" "FLUTTER_TARGET=C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\.dart_tool\package_config.json" C:/Users/helsy/BITS/Softwares/flutter_windows_3.3.10-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HELSY\BITS\SEMESTER3\CPAD - CROSS_PLATFORM\ASSIGNMENT\FINAL_DELIVERABLES\ASSIGNMENT_G7_CPA\ASSIGNMENT_G7_CPA\BUILD\WINDOWS\CMAKEFILES\48BF8E839073FDD7F6CFE8C5C47B8DA8\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HELSY\BITS\SEMESTER3\CPAD - CROSS_PLATFORM\ASSIGNMENT\FINAL_DELIVERABLES\ASSIGNMENT_G7_CPA\ASSIGNMENT_G7_CPA\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/windows" "-BC:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows" --check-stamp-file "C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

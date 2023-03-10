@@ -1,0 +1,10 @@
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/runner/CMakeFiles/assignment_g7_cpa.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/runner/CMakeFiles/ALL_BUILD.dir

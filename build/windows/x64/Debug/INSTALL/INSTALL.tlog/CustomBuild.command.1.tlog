@@ -1,0 +1,10 @@
+^C:\USERS\HELSY\BITS\SEMESTER3\CPAD - CROSS_PLATFORM\ASSIGNMENT\FINAL_DELIVERABLES\ASSIGNMENT_G7_CPA\ASSIGNMENT_G7_CPA\BUILD\WINDOWS\CMAKEFILES\9BADB45A7CC8353C584624773AA8AD93\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

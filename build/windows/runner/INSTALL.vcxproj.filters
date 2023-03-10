@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\build\windows\CMakeFiles\48fe87a0dc4f404f4933930038331bb5\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7D9AAE80-4344-35BA-BFE0-77E9CFD683FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

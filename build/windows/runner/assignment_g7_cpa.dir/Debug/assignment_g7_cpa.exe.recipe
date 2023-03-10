@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\build\windows\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\build\windows\flutter\x64\Debug\flutter_assemble</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\helsy\BITS\Semester3\CPAD - Cross_Platform\Assignment\Final_deliverables\assignment_g7_cpa\assignment_g7_cpa\build\windows\runner\Debug\assignment_g7_cpa.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

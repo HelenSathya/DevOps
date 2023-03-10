@@ -1,0 +1,10 @@
+^C:\USERS\HELSY\BITS\SEMESTER3\CPAD - CROSS_PLATFORM\ASSIGNMENT\FINAL_DELIVERABLES\ASSIGNMENT_G7_CPA\ASSIGNMENT_G7_CPA\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/windows" "-BC:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows" --check-stamp-file "C:/Users/helsy/BITS/Semester3/CPAD - Cross_Platform/Assignment/Final_deliverables/assignment_g7_cpa/assignment_g7_cpa/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
